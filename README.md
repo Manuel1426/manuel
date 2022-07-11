@@ -1,2 +1,5 @@
 # manuel
-my first repository 
+
+my first repository on GitHuB
+
+I love :coffee: pizza:, and :dancer:.
